@@ -13,4 +13,4 @@ documentation = "https://docs.rs/image_splitting"
 license-file = "LICENSE"
 
 [dependencies]
-image = "*"
+image = "0.25.6"
