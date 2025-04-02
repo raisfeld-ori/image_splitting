@@ -1,0 +1,16 @@
+[package]
+name = "image_splitting"
+version = "0.1.0"
+edition = "2021"
+authors = ["Raisfeld Ori"]
+description = "A Rust library for splitting images into smaller sub-images, supporting both equal division (3x3 grid) and custom-sized sub-images"
+license = "MIT"
+repository = "https://github.com/raisfeld/image_splitting"
+keywords = ["image", "split", "crop", "sub-image", "grid"]
+categories = ["image-processing", "multimedia"]
+readme = "README.md"
+documentation = "https://docs.rs/image_splitting"
+license-file = "LICENSE"
+
+[dependencies]
+image = "*"
