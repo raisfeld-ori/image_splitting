@@ -7,10 +7,9 @@ description = "A Rust library for splitting images into smaller sub-images, supp
 license = "MIT"
 repository = "https://github.com/raisfeld/image_splitting"
 keywords = ["image", "split", "crop", "sub-image", "grid"]
-categories = ["image-processing", "multimedia"]
+categories = ["multimedia"]
 readme = "README.md"
 documentation = "https://docs.rs/image_splitting"
-license-file = "LICENSE"
 
 [dependencies]
 image = "0.25.6"
